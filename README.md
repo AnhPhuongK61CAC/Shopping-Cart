@@ -1,7 +1,7 @@
 # Shopping-Cart
 Mini Project Thuc Tap
 Các chức năng có trong project:
-- [Hiển thị giỏ hàng]
+- Hiển thị giỏ hàng
 Hiển thị giỏ hàng
 Mua hàng
 Thông báo
