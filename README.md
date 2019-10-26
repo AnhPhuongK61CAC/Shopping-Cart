@@ -1,2 +1,2 @@
 # Shopping-Cart
-Project tt
+Mini Project Thuc Tap
